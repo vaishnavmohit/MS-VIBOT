@@ -1,0 +1,7 @@
+https://www.geeksforgeeks.org/a-search-algorithm/
+
+http://heyes-jones.com/astar.php
+
+http://homepages.abdn.ac.uk/f.guerin/pages/teaching/CS1013/practicals/aStarTutorial.htm
+
+

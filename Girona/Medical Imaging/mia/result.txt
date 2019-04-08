@@ -1,0 +1,9 @@
+For image 1003_3C.nii Jaccard is 0.562228, Dice is 0.719777, rpf is 0.351101 and rfn is 0.240373
+For image 1003_3C.nii Jaccard is 0.785044, Dice is 0.879580, rpf is 0.239202 and rfn is 0.027171
+For image 1003_3C.nii Jaccard is 0.660511, Dice is 0.795551, rpf is 0.110430 and rfn is 0.266549
+For image 1004_3C.nii Jaccard is 0.626847, Dice is 0.770628, rpf is 0.470601 and rfn is 0.078158
+For image 1004_3C.nii Jaccard is 0.848565, Dice is 0.918079, rpf is 0.057507 and rfn is 0.102637
+For image 1004_3C.nii Jaccard is 0.738113, Dice is 0.849327, rpf is 0.176311 and rfn is 0.131749
+For image 1005_3C.nii Jaccard is 0.604139, Dice is 0.753225, rpf is 0.225713 and rfn is 0.259499
+For image 1005_3C.nii Jaccard is 0.820242, Dice is 0.901245, rpf is 0.109339 and rfn is 0.090073
+For image 1005_3C.nii Jaccard is 0.728256, Dice is 0.842764, rpf is 0.203901 and rfn is 0.123252
